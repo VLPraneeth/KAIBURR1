@@ -1,2 +1,9 @@
-# KAIBURR
-https://www.kaggle.com/datasets/heemalichaudhari/consumer-complaints
+# KAIBURR1
+
+A cleaned public version of this repository.
+
+## Purpose
+Concise reference copy for public sharing.
+
+## Notes
+Personal names are intentionally omitted.
